@@ -199,7 +199,7 @@ h1,h2,h3,h4,h5,h6{
 /* hero */
 
 .hero{
-   background: url("/img/main-screen__bgc.jpg") center/cover no-repeat;
+   background: url("../img/main-screen__bgc.jpg") center/cover no-repeat;
    width: 100%;
    color: #f0f0f0;
    min-height: 100vh;
